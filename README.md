@@ -12,13 +12,13 @@ $pip2 install mechanize
 
 $pip2 install requests
 
-$git clone https://github.com/kangcoli/Donefb
+$git clone https://github.com/Arverdaa/Donefb
 
 $ls
 
 $cd Donefb
 
-$python2 Donefb.py
+$python2 arver.py
 #editor
 https://www.mediafire.com/view/cfadlnzs8z2irxd/PXL_20230510_004749729.NIGHT.jpg/file
 ### Hi there, I'm Ari Maulana ðŸ‘‹
