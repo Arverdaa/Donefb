@@ -1,7 +1,9 @@
-# Donefb
+# DONEFB BY ARVERDAA
+
 Jangan Salah Gunakan scripku yah
 
-#Cara Menjalankan 
+### CARA MENJALAKAN
+
 $ pkg update && pkg upgrade
 
 $pkg install python2
@@ -19,6 +21,8 @@ $ls
 $cd Donefb
 
 $python2 arver.py
+
+
 ### EDITOR BY ARI MARSHELLOCYBER
 
 
