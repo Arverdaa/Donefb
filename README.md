@@ -19,8 +19,9 @@ $ls
 $cd Donefb
 
 $python2 arver.py
-#editor
-https://www.mediafire.com/view/cfadlnzs8z2irxd/PXL_20230510_004749729.NIGHT.jpg/file
+### EDITOR BY ARI MARSHELLOCYBER
+
+
 ### Hi there, I'm Ari Maulana ðŸ‘‹
 
 
